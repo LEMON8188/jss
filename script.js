@@ -1,0 +1,12 @@
+let ism = prompt ('ismingizni kiriting')
+console.log(ism)
+let surname = prompt ('familiyangizni ayting')
+console.log(surname)
+let otchestva = prompt ('otchestva')
+console.log(otchestva)
+let yosh = prompt ('yoshingiz')
+console.log(yosh)
+let fan = prompt ('yoqtirgan faningiz?')
+console.log = (fan)
+
+alert  ('malumotlaringizni kiritganingiz uchun raxmat')
